@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Os lábios da sabedoria estão fechados, exceto aos ouvidos do entendimento!</h1>
+    return <h1>Oi amor, amo muito você!</h1>
 }
 
 export default Home;
