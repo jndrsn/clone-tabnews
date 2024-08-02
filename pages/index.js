@@ -1,5 +1,7 @@
 function Home() {
-  return <h1>Oi amor, amo muito você!</h1>;
+  return (
+    <h1>Oi amor, amo muito você! teste para ver se atualiza ao mesmo tempo</h1>
+  );
 }
 
 function teste() {
